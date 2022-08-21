@@ -1,0 +1,16 @@
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.exe
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.deps.json
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.runtimeconfig.json
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.runtimeconfig.dev.json
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.dll
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\bin\Debug\netcoreapp3.1\LunchOrder.pdb
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.AssemblyReference.cache
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.Form1.resources
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.GenerateResource.cache
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.AssemblyInfoInputs.cache
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.AssemblyInfo.cs
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.csproj.CoreCompileInputs.cache
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.dll
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.pdb
+E:\Contemporary Programming\LunchOrder\LunchOrder\LunchOrder\obj\Debug\netcoreapp3.1\LunchOrder.genruntimeconfig.cache
